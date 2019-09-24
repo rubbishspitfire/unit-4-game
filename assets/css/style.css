@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+body {
+    background: url(./../img/cave-background.jpg);
+    padding-left: 20px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-size: 115%;
+}
+
+.row {
+    padding: 10px;
+}
+.img-thumbnail {
+    background-color: black;
+    border: none;
+}
